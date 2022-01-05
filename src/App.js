@@ -1,8 +1,8 @@
 import React,{useState,useEffect} from "react"
 import axios from "axios"
 
-const API_KEY = "228aca5a36a09cd43ac8939589e59b9d"
- const base="https://api.openweathermap.org/data/2.5/weather?q=London&appid=228aca5a36a09cd43ac8939589e59b9d"
+const API_KEY = "enter your api key"
+
 
 
 const App=()=>{
