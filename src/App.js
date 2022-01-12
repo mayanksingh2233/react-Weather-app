@@ -1,7 +1,7 @@
 import React,{useState,useEffect} from "react"
 import axios from "axios"
 
-const API_KEY = "enter your api key"
+const API_KEY = "enter your api  key"
 
 
 
